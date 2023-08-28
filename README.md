@@ -10,7 +10,9 @@ TBD
 
 ## Credits
 
-TBD
+- Transcriptions: Jade Norindr.
+- Supervision and manuscript selection: Alix Chagué.
+- Project management: Thibault Clérice, Alix Chagué.
 
 <!-- Rien ne doit être modifié manuellement après la balise Start Auto -->
 
