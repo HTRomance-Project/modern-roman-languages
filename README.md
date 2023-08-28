@@ -1,5 +1,5 @@
-HTRomance: Corpus Modern Roman Languages
-=========================================
+HTRomance, Modern language corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation
+==========================================================================================================
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 <!-- Custom Zone -->
