@@ -68,7 +68,6 @@ single manuscript, identified by its shelfmark.
 - MainZone (80)
 - GraphicZone (9)
 - NumberingZone (42)
-- Not specified (1)
 - MarginTextZone (10)
 - StampZone (9)
 
