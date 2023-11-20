@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Français 8204_f11.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT8257" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT6015" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT6014" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT6013" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT6012" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT6011" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT6010" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT6009" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT6008" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6007" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT6006" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT6005" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT6004" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT6017" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT6016" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+    <OtherTag ID="LT2061" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2060" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2059" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2058" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2057" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2307"
+          HEIGHT="2924"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2307"
+                  HEIGHT="2924">
+        
+        <TextBlock HPOS="2081"
+                   VPOS="77"
+                   WIDTH="103"
+                   HEIGHT="82"
+                   ID="eSc_textblock_40faa7b1"
+                   TAGREFS="BT6011">
+          <Shape><Polygon POINTS="2081 77 2081 156 2184 159 2184 77"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d939322d"
+                    TAGREFS="LT2057"
+                    BASELINE="2092 149 2152 151" 
+                    HPOS="2089"
+                    VPOS="87"
+                    WIDTH="61"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2089 148 2089 158 2150 158 2150 148 2146 87 2089 102 2089 148"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="2089"
+                    VPOS="87"
+                    WIDTH="61"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="324"
+                   VPOS="2215"
+                   WIDTH="1784"
+                   HEIGHT="495"
+                   ID="eSc_textblock_678e7f5f"
+                   TAGREFS="BT6008">
+          <Shape><Polygon POINTS="324 2215 324 2710 2108 2710 2108 2215"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_391498d7"
+                    TAGREFS="LT2057"
+                    BASELINE="425 2340 2034 2347" 
+                    HPOS="424"
+                    VPOS="2256"
+                    WIDTH="1610"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="2017 2280 2008 2275 1996 2274 1985 2274 1969 2274 1952 2274 1944 2274 1926 2282 1869 2306 1843 2300 1842 2300 1840 2300 1839 2300 1821 2309 1673 2309 1649 2300 1647 2300 1645 2300 1585 2306 1514 2274 1497 2274 1494 2274 1434 2303 1398 2282 1397 2282 1395 2282 1393 2282 1392 2282 1363 2295 1319 2274 1317 2274 1315 2274 1314 2274 1252 2306 1090 2306 1018 2266 1017 2266 1015 2266 1013 2266 960 2295 908 2264 901 2259 900 2259 898 2259 896 2259 877 2262 844 2270 831 2262 825 2257 823 2257 822 2257 752 2257 750 2257 748 2257 742 2261 677 2293 596 2257 594 2257 592 2257 425 2256 425 2340 424 2360 463 2366 464 2366 466 2366 477 2360 480 2358 485 2360 497 2368 498 2368 500 2368 502 2368 588 2360 651 2355 659 2360 666 2365 667 2365 669 2365 670 2365 672 2365 685 2360 701 2355 713 2360 729 2368 731 2368 732 2368 734 2368 761 2360 781 2355 849 2360 930 2366 932 2366 992 2360 1013 2358 1021 2360 1073 2376 1075 2376 1077 2378 1143 2378 1143 2376 1145 2376 1189 2363 1241 2371 1242 2371 1244 2371 1272 2360 1273 2360 1333 2378 1335 2378 1337 2379 1434 2379 1434 2378 1436 2378 1463 2366 1569 2378 1571 2378 1572 2378 1574 2378 1603 2360 1605 2360 1613 2360 1681 2361 1710 2379 1712 2379 1714 2379 1715 2381 1788 2381 1788 2379 1790 2379 1791 2379 1819 2361 2032 2358 2034 2347 2034 2288 2017 2280"/></Shape>
+	    <String CONTENT="Henry De Bourbon prince de Condé premier prince du"
+                    HPOS="424"
+                    VPOS="2256"
+                    WIDTH="1610"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9dccae1"
+                    TAGREFS="LT2057"
+                    BASELINE="437 2417 2071 2420" 
+                    HPOS="435"
+                    VPOS="2363"
+                    WIDTH="1636"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="437 2417 435 2438 552 2451 554 2451 555 2451 589 2438 601 2435 620 2438 661 2446 662 2446 778 2438 789 2438 791 2438 823 2451 825 2451 826 2452 903 2452 903 2451 904 2451 906 2451 927 2438 935 2435 994 2435 1002 2438 1033 2451 1034 2451 1036 2452 1072 2452 1072 2451 1135 2438 1137 2438 1198 2444 1200 2444 1202 2444 1203 2444 1215 2438 1220 2435 1226 2438 1257 2448 1259 2448 1260 2448 1419 2438 1491 2446 1493 2446 1556 2436 1562 2436 1577 2436 1772 2448 1774 2448 1840 2438 1881 2452 1882 2452 1884 2454 1975 2454 1975 2452 1977 2452 2008 2436 2069 2435 2071 2420 2069 2365 1985 2365 1983 2365 1982 2365 1980 2365 1928 2386 1918 2379 1917 2379 1915 2379 1913 2379 1832 2391 1754 2387 1712 2370 1701 2365 1699 2365 1580 2365 1579 2365 1577 2365 1564 2371 1528 2391 1497 2381 1496 2381 1494 2381 1493 2381 1454 2391 1426 2383 1424 2383 1423 2383 1324 2391 1283 2374 1254 2363 1252 2363 1250 2363 1249 2363 1223 2376 1200 2387 1168 2379 1166 2379 1164 2379 1106 2386 1086 2378 1051 2363 1049 2363 994 2363 992 2363 991 2363 955 2379 943 2384 883 2381 833 2378 831 2378 830 2378 818 2381 794 2389 711 2383 675 2381 674 2381 633 2384 575 2389 542 2386 469 2376 467 2376 466 2376 437 2386 437 2417"/></Shape>
+	    <String CONTENT="sang &gt;&lt; premier pair de france Gouverneur Et lieutenant gnãl"
+                    HPOS="435"
+                    VPOS="2363"
+                    WIDTH="1636"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18d8dce4"
+                    TAGREFS="LT2057"
+                    BASELINE="443 2496 2050 2490" 
+                    HPOS="441"
+                    VPOS="2433"
+                    WIDTH="1609"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="443 2496 443 2529 609 2513 687 2513 713 2526 719 2529 721 2529 722 2530 760 2530 760 2529 761 2529 763 2529 770 2524 791 2513 835 2519 836 2519 838 2519 864 2511 898 2519 900 2519 901 2519 1054 2519 1057 2521 1069 2527 1070 2527 1072 2527 1073 2529 1156 2529 1156 2527 1158 2527 1176 2519 1185 2514 1200 2517 1229 2526 1231 2526 1233 2526 1234 2526 1252 2517 1255 2516 1262 2517 1293 2524 1294 2524 1296 2524 1315 2516 1330 2511 1345 2516 1369 2524 1371 2524 1372 2524 1374 2524 1397 2516 1402 2514 1432 2514 1523 2517 1525 2517 1558 2513 1582 2509 1645 2511 1944 2524 1946 2524 1947 2524 1973 2509 2050 2504 2050 2490 2047 2459 1912 2459 1910 2457 1871 2433 1869 2433 1868 2433 1827 2433 1826 2433 1824 2433 1822 2433 1788 2454 1751 2433 1749 2433 1720 2433 1718 2433 1717 2433 1675 2457 1671 2459 1644 2461 1582 2461 1575 2457 1527 2435 1525 2435 1496 2435 1494 2435 1493 2435 1491 2435 1457 2456 1452 2459 1445 2456 1395 2435 1393 2435 1392 2435 1335 2444 1299 2435 1298 2435 1296 2435 1294 2435 1252 2456 1242 2462 997 2462 986 2456 952 2436 950 2436 948 2436 854 2454 812 2464 784 2464 770 2454 744 2438 742 2438 740 2438 591 2438 589 2438 588 2438 557 2454 544 2461 441 2454 443 2496"/></Shape>
+	    <String CONTENT="pour le Roy en Guienne porte de Boubon qui Est d&#x27;azur a"
+                    HPOS="441"
+                    VPOS="2433"
+                    WIDTH="1609"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f0adf11"
+                    TAGREFS="LT2057"
+                    BASELINE="443 2573 1665 2569" 
+                    HPOS="441"
+                    VPOS="2514"
+                    WIDTH="1224"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="443 2573 445 2616 485 2600 519 2615 521 2615 523 2615 524 2616 579 2616 579 2615 581 2615 586 2613 644 2586 703 2602 705 2602 706 2602 708 2602 735 2589 760 2603 761 2603 763 2603 765 2603 766 2603 820 2586 874 2602 875 2602 877 2602 878 2602 880 2602 903 2586 945 2594 947 2594 1083 2584 1158 2597 1197 2603 1198 2603 1200 2603 1226 2595 1242 2590 1263 2594 1289 2599 1291 2599 1293 2599 1309 2592 1325 2587 1332 2592 1361 2613 1363 2613 1364 2613 1366 2615 1489 2615 1489 2613 1491 2613 1530 2595 1553 2602 1554 2602 1556 2602 1558 2602 1584 2589 1610 2595 1611 2595 1613 2595 1663 2582 1665 2569 1663 2534 1647 2526 1645 2526 1644 2526 1590 2534 1587 2534 1566 2524 1564 2524 1562 2524 1561 2524 1535 2534 1515 2534 1457 2534 1434 2514 1432 2514 1431 2514 1389 2514 1387 2514 1385 2514 1384 2514 1359 2534 1273 2524 1272 2524 1270 2524 1234 2534 1205 2514 1203 2514 1202 2514 1151 2514 1150 2514 1148 2514 1147 2514 1122 2534 1080 2527 1078 2527 1041 2535 1002 2516 1000 2516 956 2516 955 2516 953 2516 952 2516 930 2534 903 2535 877 2516 875 2516 874 2516 774 2516 773 2516 771 2516 770 2516 742 2537 716 2537 601 2516 599 2516 597 2516 596 2516 571 2535 508 2527 506 2527 441 2537 443 2573"/></Shape>
+	    <String CONTENT="trois fleurs de lis d&#x27;or au Baston de gueules"
+                    HPOS="441"
+                    VPOS="2514"
+                    WIDTH="1224"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="193"
+                   VPOS="98"
+                   WIDTH="1919"
+                   HEIGHT="2090"
+                   ID="eSc_textblock_7e36ba7a"
+                   TAGREFS="BT8257">
+          <Shape><Polygon POINTS="193 194 193 2188 2112 2188 2112 194 1149 98"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
