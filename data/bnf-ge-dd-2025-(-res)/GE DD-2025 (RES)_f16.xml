@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>GE DD-2025 (RES)_f16.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT6200" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT6143" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT6142" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT6141" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT6140" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT6153" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT6152" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT6151" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT6150" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT6149" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT6148" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT6147" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT6146" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT6145" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT6144" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT2125" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2108" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2107" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2106" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2105" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1690"
+          HEIGHT="2367"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1690"
+                  HEIGHT="2367">
+        
+        <TextBlock HPOS="326"
+                   VPOS="310"
+                   WIDTH="1362"
+                   HEIGHT="708"
+                   ID="eSc_textblock_00b0701c"
+                   TAGREFS="BT6144">
+          <Shape><Polygon POINTS="1688 320 1684 877 1517 908 1421 992 1212 998 1210 1018 738 1018 766 999 735 982 745 957 718 913 378 892 326 871 352 735 362 352 378 315 428 310"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2541118f"
+                    TAGREFS="LT2105"
+                    BASELINE="373 374 1674 377" 
+                    HPOS="373"
+                    VPOS="331"
+                    WIDTH="1301"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="373 374 373 395 473 387 586 395 606 397 607 397 619 395 699 386 748 395 756 397 757 397 766 395 823 386 895 395 899 395 900 395 907 395 1004 387 1083 393 1085 393 1086 393 1103 386 1142 395 1157 398 1158 398 1159 398 1167 395 1183 390 1259 395 1290 397 1291 397 1305 395 1367 386 1590 386 1671 394 1674 377 1672 345 1537 334 1536 334 1476 336 1475 336 1455 343 1437 348 1424 341 1405 334 1404 334 1290 334 1288 334 1287 334 1273 340 1255 348 1203 340 1202 340 1142 348 1098 339 1086 336 1085 336 1074 337 1042 345 1011 337 991 332 990 332 989 332 987 332 977 337 956 347 891 336 889 336 887 336 885 336 835 347 654 337 653 337 652 337 629 348 477 348 373 331 373 374"/></Shape>
+	    <String CONTENT="qui, longues années avant la révolution ont servi"
+                    HPOS="373"
+                    VPOS="331"
+                    WIDTH="1301"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0abd8e2b"
+                    TAGREFS="LT2105"
+                    BASELINE="374 461 1671 461" 
+                    HPOS="374"
+                    VPOS="410"
+                    WIDTH="1297"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="374 461 374 486 443 474 536 483 537 483 643 476 699 483 716 485 718 485 719 485 727 482 762 473 795 482 802 483 803 483 804 483 819 482 857 476 869 481 879 486 881 486 882 486 953 479 1023 474 1036 479 1048 483 1049 483 1050 483 1104 478 1136 476 1152 478 1194 485 1195 485 1196 485 1211 477 1217 473 1250 473 1320 476 1524 486 1525 486 1526 486 1554 473 1555 473 1563 473 1645 481 1646 481 1647 481 1671 472 1671 461 1668 414 1617 428 1590 428 1567 414 1561 410 1559 410 1558 410 1362 410 1361 410 1324 416 1299 422 1286 418 1270 411 1269 411 1225 411 1224 411 1223 411 1209 418 1191 428 890 428 869 422 831 410 829 410 828 410 827 410 825 410 815 416 786 412 785 412 783 412 761 423 753 426 732 423 682 415 681 415 679 415 660 423 651 427 631 424 590 416 589 416 587 416 568 424 561 427 555 424 522 410 520 410 476 410 474 410 473 410 432 426 431 427 374 427 374 461"/></Shape>
+	    <String CONTENT="à l&#x27;instruction des anciens maitres de la france"
+                    HPOS="374"
+                    VPOS="410"
+                    WIDTH="1297"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6556f2e7"
+                    TAGREFS="LT2105"
+                    BASELINE="372 535 1659 541" 
+                    HPOS="372"
+                    VPOS="494"
+                    WIDTH="1287"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="372 535 372 553 1658 553 1659 541 1658 503 1532 498 1530 498 1512 502 1465 512 1446 502 1444 499 1442 499 1441 499 1411 498 1409 498 1392 501 1338 511 1245 501 1212 497 1211 497 1209 497 1202 499 1175 512 1145 512 1074 511 1052 499 1044 495 1042 495 944 495 942 495 941 495 935 498 914 508 885 501 883 501 882 501 881 501 879 501 866 508 778 502 777 502 775 502 774 502 762 510 631 510 616 502 615 502 614 502 530 507 508 495 507 495 506 495 505 495 501 495 441 507 409 495 406 494 405 494 403 494 372 494 372 535"/></Shape>
+	    <String CONTENT="aussi pour ne pas déra^nger ces anciens vestiges,"
+                    HPOS="372"
+                    VPOS="494"
+                    WIDTH="1287"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f5ac07b"
+                    TAGREFS="LT2105"
+                    BASELINE="369 623 1282 616 1674 620" 
+                    HPOS="368"
+                    VPOS="565"
+                    WIDTH="1306"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="369 623 369 640 431 631 532 640 540 640 541 640 543 640 544 640 574 631 626 639 627 639 720 629 839 639 846 639 848 639 854 639 952 628 1066 637 1069 637 1070 637 1071 637 1123 629 1194 637 1200 637 1202 637 1211 637 1294 631 1344 636 1345 636 1346 636 1362 629 1513 636 1529 636 1530 636 1537 636 1618 627 1671 635 1674 620 1672 583 1630 565 1629 565 1582 565 1580 565 1579 565 1545 583 1496 566 1495 566 1399 566 1398 566 1396 566 1341 585 1270 579 1269 579 1219 586 1216 586 1213 586 1157 575 1156 575 1154 575 1129 586 1092 573 1091 573 1090 573 1088 573 1040 587 983 587 952 568 950 568 949 568 948 568 747 587 745 589 725 589 710 589 672 569 670 569 669 569 668 569 654 575 564 570 562 570 561 570 560 570 531 589 368 589 369 623"/></Shape>
+	    <String CONTENT="ai-je tout fait relier jusqués aux billets de pa"
+                    HPOS="368"
+                    VPOS="565"
+                    WIDTH="1306"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ed4f1b5"
+                    TAGREFS="LT2105"
+                    BASELINE="366 706 833 710 1321 698 1663 699" 
+                    HPOS="366"
+                    VPOS="660"
+                    WIDTH="1297"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="366 733 412 732 414 732 457 717 545 731 548 731 549 731 551 731 552 731 585 723 614 729 620 731 622 732 768 732 768 731 796 727 845 719 866 725 879 729 881 729 882 731 979 731 979 729 1016 723 1063 714 1083 721 1092 725 1094 725 1095 725 1096 725 1115 721 1131 717 1159 720 1187 723 1188 723 1190 723 1203 720 1232 712 1408 714 1412 716 1438 725 1440 725 1441 725 1442 725 1482 715 1497 711 1661 711 1663 699 1662 660 1617 660 1616 660 1615 660 1613 660 1590 674 1544 666 1542 666 1541 666 1540 666 1525 675 1440 675 1391 666 1390 666 1388 666 1366 675 1317 664 1304 661 1303 661 1302 661 1290 664 1261 671 1248 665 1245 664 1244 664 1242 664 1241 664 1237 665 1192 677 1083 670 1082 670 992 678 956 669 937 664 936 664 935 664 766 665 737 671 699 679 366 677 366 706 366 733"/></Shape>
+	    <String CONTENT="de mariage, de batême qui ainsi que d&#x27;autres"
+                    HPOS="366"
+                    VPOS="660"
+                    WIDTH="1297"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d4dd484"
+                    TAGREFS="LT2105"
+                    BASELINE="376 792 1366 782 1671 785" 
+                    HPOS="374"
+                    VPOS="737"
+                    WIDTH="1297"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="376 792 376 812 431 811 432 811 452 800 545 810 547 810 548 810 568 799 662 806 664 806 665 806 681 798 812 808 814 808 815 808 846 799 928 807 929 807 1020 799 1042 804 1044 804 1045 804 1046 804 1071 796 1104 803 1106 803 1107 803 1131 794 1286 794 1304 800 1305 800 1307 800 1308 800 1330 795 1366 803 1367 803 1423 791 1465 802 1466 802 1467 802 1586 790 1670 800 1671 785 1670 740 1463 737 1462 737 1436 739 1434 739 1433 739 1428 742 1412 752 1387 746 1386 746 1313 756 1288 744 1287 744 1286 744 1192 740 1191 740 1190 740 1188 740 1181 745 1170 752 1156 748 1154 748 1153 748 1104 760 899 760 870 749 852 742 850 742 849 742 848 742 835 749 812 762 772 762 736 750 714 744 712 744 711 744 673 752 620 762 578 754 577 754 501 764 474 754 472 753 470 753 469 753 374 754 376 792"/></Shape>
+	    <String CONTENT="papiers aussi étrangers à la géographie, étaie"
+                    HPOS="374"
+                    VPOS="737"
+                    WIDTH="1297"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faff5b93"
+                    TAGREFS="LT2105"
+                    BASELINE="357 866 1670 862" 
+                    HPOS="356"
+                    VPOS="820"
+                    WIDTH="1314"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="357 866 357 895 402 895 402 894 403 894 453 879 494 894 497 894 498 894 499 894 501 894 503 894 547 879 673 879 732 891 752 895 753 895 774 892 789 902 790 902 791 902 793 902 794 902 828 891 848 884 874 890 923 900 924 902 1066 902 1066 900 1067 900 1108 888 1144 878 1241 883 1250 887 1286 899 1287 899 1288 900 1417 900 1417 899 1419 899 1448 886 1466 877 1643 877 1667 883 1670 862 1667 823 1442 820 1441 820 1440 820 1429 825 1408 836 1329 828 1328 828 1327 828 1308 837 1158 837 1137 829 1133 828 1132 828 1131 828 1129 828 1128 828 1125 829 1115 836 1054 831 1046 831 1045 831 1044 831 1042 831 1031 838 823 838 804 835 757 825 756 825 754 825 739 831 711 823 710 823 708 823 707 823 679 829 624 823 623 823 549 835 432 829 431 829 356 840 357 866"/></Shape>
+	    <String CONTENT="Les couvertures économiques mises par Buach"
+                    HPOS="356"
+                    VPOS="820"
+                    WIDTH="1314"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf630fc7"
+                    TAGREFS="LT2105"
+                    BASELINE="803 1000 1138 987" 
+                    HPOS="800"
+                    VPOS="913"
+                    WIDTH="338"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="803 1000 803 1021 864 1021 865 1021 866 1021 866 1020 869 1017 878 1009 887 1016 889 1017 890 1017 891 1017 893 1017 894 1017 895 1017 898 1015 912 1007 936 1012 944 1013 945 1013 946 1013 948 1013 950 1011 962 1003 1010 1005 1012 1005 1014 1005 1015 1005 1016 1005 1038 999 1054 1003 1100 1012 1102 1012 1103 1012 1138 995 1138 987 1134 924 1094 913 1092 913 1091 913 1090 913 1088 913 1060 932 1057 933 1053 932 1025 925 1024 925 1023 925 1021 925 989 938 986 940 985 938 950 919 949 919 948 919 946 919 915 920 914 920 879 931 878 931 878 932 857 950 853 956 800 956 803 1000"/></Shape>
+	    <String CONTENT="Monteil"
+                    HPOS="800"
+                    VPOS="913"
+                    WIDTH="338"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

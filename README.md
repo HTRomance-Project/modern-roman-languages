@@ -38,9 +38,9 @@ single manuscript, identified by its shelfmark.
 
 | Shelfmark                                                                      | Links                                    | Range   | Type   |   Century | Color   |   Pages |   Main Zones |   Lines |   Characters | Genre                     | Content                                                                                                                                                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------|------------------------------------------|---------|--------|-----------|---------|---------|--------------|---------|--------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [BnF Français 2394](https://gallica.bnf.fr/ark:/12148/btv1b525066874)          | [📁](data/bnf-français-2394)             | 7r-9r   | prose  |        17 | ✓       |       5 |            4 |      67 |         1947 | traité                    | « Discours sur le tableau du Passage du Rhin, à monsieur Le Brun », par « F. LE BRUN », en latin et en français.                                                                                                                                                                                                                                                                   |
 | [BnF Français 4108](https://gallica.bnf.fr/ark:/12148/btv1b525049701)          | [📁](data/bnf-français-4108)             | 1r-102v | prose  |        17 | ✓       |       5 |            4 |     111 |         3982 | prose                     | Contient : 1° « Remonstrances du parlement de Navarre au roy [Louis XIV], contre Mr le comte de Guiche, viceroy de Navarre » ; 2° « Response de Mr le comte [ANTOINE III] DE GUICHE ausdittes remonstrances » Description :  Numérisation effectuée à partir d'un document original.                                                                                               |
 | [BnF 4-S-3789 (2)](https://gallica.bnf.fr/ark:/12148/bpt6k322032d)             | [📁](data/bnf-4-s-3789-(-2))             | NP-NP   | prose  |        17 | ✓       |       5 |            5 |     109 |         1764 | traité                    | Jugement de phisionomie conforme aux principes d'Aristote et des autres philosophes. Tiré des differentes partes du corps humain Par le R. P. F. Paul Grisaldi de Perouse docteur en theologie de l'ordre des ff prescheurs... Auteur  :  Grisaldi, Paolo (15..-1614). Auteur du texte                                                                                             |
-| [BnF Français 2394](https://gallica.bnf.fr/ark:/12148/btv1b525066874)          | [📁](data/bnf-français-2394)             | 7r-9r   | prose  |        17 | ✓       |       5 |            4 |      67 |         1947 | traité                    | « Discours sur le tableau du Passage du Rhin, à monsieur Le Brun », par « F. LE BRUN », en latin et en français.                                                                                                                                                                                                                                                                   |
 | [BnF Français 8204](https://gallica.bnf.fr/ark:/12148/btv1b8551123b)           | [📁](data/bnf-français-8204)             | 1r-77v  | prose  |        17 | ✓       |       6 |            7 |      45 |         1871 | armorial                  | « Les noms et surnoms, qualitez, armes et seigneuries de tous les cardinaux, prelats et commandeurs de l'Ordre du St -Esprit, qui ont esté faicts par le très crestien roy de France et de Navarre, Louis treiziesme du nom... » (1610-1621).                                                                                                                                      |
 | [BnF Ms-3561](https://gallica.bnf.fr/ark:/12148/btv1b52507329r)                | [📁](data/bnf-ms-3561)                   | xr-yv   | prose  |        17 | ✓       |       5 |            5 |      91 |         2393 | Traité                    | « Testament politique de l'éminantissime Armand, cardinal duc de Richelieu, pair et grand admiral de France. ». « Testament politique de l'éminantissime Armand, cardinal duc de Richelieu, pair et grand admiral de France. » Tome Ier.                                                                                                                                           |
 | [BnF GE DD-2025 (RES)](https://gallica.bnf.fr/ark:/12148/btv1b55008553r)       | [📁](data/bnf-ge-dd-2025-(-res))         | 4r-130v | prose  |        18 | ✓       |      10 |           11 |     176 |         6289 | divers documents          | _                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -66,19 +66,17 @@ single manuscript, identified by its shelfmark.
 
 - TitlePageZone (9)
 - MainZone (80)
-- NumberingZone (41)
+- GraphicZone (9)
+- NumberingZone (42)
 - Not specified (1)
 - MarginTextZone (10)
-- StampZone (10)
-- DecorationZone (2)
-- GraphicZone (7)
+- StampZone (9)
 
 ### Lines
 
-- HeadingLine (60)
-- DefaultLine (1245)
+- HeadingLine (59)
+- DefaultLine (1261)
 - InterlinearLine (4)
-- Not specified (15)
 
 <!-- EndMetric -->
 
@@ -101,3 +99,4 @@ url = {https://htromance-project.github.io/}
 ## Infrastructure
 
 This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
+
