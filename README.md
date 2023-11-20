@@ -6,13 +6,20 @@ HTRomance, Modern language corpus of ground-truth for Handwritten Text Recogniti
 
 ## Introduction
 
-TBD
+This ground-truth dataset has been built around the idea of offering a variety of data to improve the coverage of modern cursive handwriting, in the perspective of building generic transcription models. Each manuscript includes 1 to 10 images taken from a single hand or multihand manuscript held at the Bibliothèque nationale de France (BnF) and available through Gallica. 
+The number of lines per page depends on the documents. It varies from 4 to 42 for the densest, with an average amount of 15 lines per pages. 
+
+<!--
+> [!NOTE]
+> The repository contains two XML files per image. The ones suffixed with `.chocomufin.xml` are normalized in order to be compliant with other datasets following the same guidelines. The others are more specific to this repository. We recommend using the normalized documents.
+-->
 
 ## Credits
 
-- Transcriptions: Jade Norindr.
-- Supervision and manuscript selection: Alix Chagué.
-- Project management: Thibault Clérice, Alix Chagué.
+* Segmentation: Jade Norindr & Alix Chagué.
+* Transcriptions: Jade Norindr.
+* Supervision and manuscript selection: Alix Chagué <!-- remember to add Jade Norindr when her selection is added -->
+* Project management: Thibault Clérice & Alix Chagué.
 
 <!-- Rien ne doit être modifié manuellement après la balise Start Auto -->
 
