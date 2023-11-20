@@ -1,0 +1,49 @@
+
+
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Corpus Modern Roman Languages
+url: https://github.com/HTRomance-Project/modern-roman-languages
+authors:
+  - name: Jade
+    surname: Norindr
+    roles:
+      - transcriber
+  - name: Alix
+    surname: Chagué
+    orcid: 0000-0002-0136-4434
+    roles:
+      - project-manager
+      - quality-control
+      - support
+institutions: []
+description: >-
+  Dataset for modern roman languages created within the context of the HTRomance
+  project, using manuscripts from the Gallica digital library.
+project-name: HTRomance
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1600'
+  notAfter: '1800'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+    name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 456
+transcription-guidelines: >-
+  The transcription guidelines are described in a paper available on HAL and
+  published at the Journal for Open Humanities Data. It provides specific
+  details about the selection process, the transcription methods and choices, as
+  well as details about output (mainly the Generic CREMMA Model for Medieval
+  Manuscripts (Latin and Old French) for Kraken)
+

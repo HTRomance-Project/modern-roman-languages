@@ -1,5 +1,5 @@
-HTRomance: Corpus Mondern Roman Languages
-=========================================
+HTRomance, Modern language corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation
+==========================================================================================================
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 <!-- Custom Zone -->
@@ -10,7 +10,9 @@ TBD
 
 ## Credits
 
-TBD
+- Transcriptions: Jade Norindr.
+- Supervision and manuscript selection: Alix Chagué.
+- Project management: Thibault Clérice, Alix Chagué.
 
 <!-- Rien ne doit être modifié manuellement après la balise Start Auto -->
 
