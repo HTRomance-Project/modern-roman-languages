@@ -290,30 +290,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1032"
-                   VPOS="68"
-                   WIDTH="86"
-                   HEIGHT="59"
-                   ID="eSc_textblock_fd321e90"
-                   TAGREFS="BT6086">
-          <Shape><Polygon POINTS="1082 68 1115 78 1118 100 1092 122 1032 127 1032 68"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_bd727511"
-                    TAGREFS="LT2"
-                    BASELINE="1034 107 1096 102" 
-                    HPOS="1031"
-                    VPOS="68"
-                    WIDTH="65"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="1034 114 1064 123 1065 123 1066 123 1096 110 1096 102 1093 72 1063 68 1062 68 1061 68 1047 79 1044 81 1031 81 1034 107"/></Shape>
-	    <String CONTENT="52"
-                    HPOS="1031"
-                    VPOS="68"
-                    WIDTH="65"
-                    HEIGHT="55"></String>
-          </TextLine>
-
+        <TextBlock HPOS="439"
+                   VPOS="65"
+                   WIDTH="576"
+                   HEIGHT="90"
+                   ID="eSc_textblock_f8fa27a1"
+                   TAGREFS="BT6083">
+          <Shape><Polygon POINTS="982 132 900 155 809 142 458 155 439 129 442 78 457 65 1015 68 1015 129"/></Shape>
           
           
           <TextLine ID="eSc_line_1d9d2292"
@@ -334,13 +317,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="439"
-                   VPOS="65"
-                   WIDTH="576"
-                   HEIGHT="90"
-                   ID="eSc_textblock_f8fa27a1"
-                   TAGREFS="BT6083">
-          <Shape><Polygon POINTS="982 132 900 155 809 142 458 155 439 129 442 78 457 65 1015 68 1015 129"/></Shape>
+        <TextBlock HPOS="1032"
+                   VPOS="68"
+                   WIDTH="86"
+                   HEIGHT="59"
+                   ID="eSc_textblock_fd321e90"
+                   TAGREFS="BT6086">
+          <Shape><Polygon POINTS="1082 68 1115 78 1118 100 1092 122 1032 127 1032 68"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd727511"
+                    TAGREFS="LT2084"
+                    BASELINE="1034 107 1096 102" 
+                    HPOS="1031"
+                    VPOS="68"
+                    WIDTH="65"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1034 114 1064 123 1065 123 1066 123 1096 110 1096 102 1093 72 1063 68 1062 68 1061 68 1047 79 1044 81 1031 81 1034 107"/></Shape>
+	    <String CONTENT="52"
+                    HPOS="1031"
+                    VPOS="68"
+                    WIDTH="65"
+                    HEIGHT="55"></String>
+          </TextLine>
+
           
         </TextBlock>
         
