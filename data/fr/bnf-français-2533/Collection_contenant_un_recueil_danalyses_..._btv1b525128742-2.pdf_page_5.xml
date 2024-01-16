@@ -310,36 +310,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="260.0"
-                   VPOS="1653.0"
-                   WIDTH="11.0"
-                   HEIGHT="42.0"
-                   ID="eSc_textblock_dcaed88f"
-                   TAGREFS="BT10160">
-          <Shape><Polygon POINTS="271 1695 260 1695 260 1653 271 1657"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="260.0"
-                   VPOS="3629.0"
-                   WIDTH="27.0"
-                   HEIGHT="118.0"
-                   ID="eSc_textblock_27f7c7ab"
-                   TAGREFS="BT10160">
-          <Shape><Polygon POINTS="287 3732 260 3747 260 3629 271 3633"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3504.0"
-                   VPOS="2465.0"
-                   WIDTH="12.0"
-                   HEIGHT="11.0"
-                   ID="eSc_textblock_2db82c7d"
-                   TAGREFS="BT10160">
-          <Shape><Polygon POINTS="3504 2476 3504 2465 3516 2465 3516 2476"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>

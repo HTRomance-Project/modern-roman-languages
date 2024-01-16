@@ -436,18 +436,18 @@
           
           
           <TextLine ID="eSc_line_5ede5649"
-                    
+                    TAGREFS="LT3967"
                     BASELINE="3445 376 3802 361" 
-                    HPOS="3428.0"
-                    VPOS="165.0"
-                    WIDTH="372.0"
-                    HEIGHT="277.0">
-            <Shape><Polygon POINTS="3440 371 3440 442 3800 401 3800 359 3783 165 3570 206 3552 194 3505 165 3499 165 3493 165 3487 165 3482 165 3476 165 3428 194 3440 371"/></Shape>
+                    HPOS="3428"
+                    VPOS="165"
+                    WIDTH="372"
+                    HEIGHT="277">
+            <Shape><Polygon POINTS="3440 442 3800 401 3800 359 3783 165 3570 206 3552 194 3505 165 3499 165 3493 165 3487 165 3482 165 3476 165 3428 194 3440 371"/></Shape>
 	    <String CONTENT="143"
-                    HPOS="3428.0"
-                    VPOS="165.0"
-                    WIDTH="372.0"
-                    HEIGHT="277.0"></String>
+                    HPOS="3428"
+                    VPOS="165"
+                    WIDTH="372"
+                    HEIGHT="277"></String>
           </TextLine>
 
           
