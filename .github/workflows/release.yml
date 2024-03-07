@@ -5,7 +5,7 @@ on:
       - main
     paths:
       - table.csv
-      - "data/*/*.xml"
+      - "data/**/**/*.xml"
   workflow_dispatch:
 permissions:
   contents: write
@@ -27,7 +27,7 @@ jobs:
       - name: Run Report
         run: |
           # Generate chocomufin version
-          chocomufin -n NFD convert -s .chocomufin.xml table.csv ./data/*/*.xml
+          chocomufin -n NFC convert -s .chocomufin.xml table.csv ./data/**/**/*.xml --sample-verbose 1
       - name: Pushing
         run: |
           git add data/*/*.xml
