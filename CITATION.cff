@@ -10,6 +10,8 @@ type: dataset
 authors:
   - given-names: Jade
     family-names: Norindr
+  - given-names: Anna
+    family-names: Mikhalchuk
   - given-names: Thibault
     family-names: Clérice
     email: thibault.clerice@inria.fr
@@ -20,7 +22,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-0136-4434'
     affiliation: 'ALMAnaCH, INRIA; Université de Montréal'
     email: alix.chague@inria.fr
-repository-code: 'https://github.com/HTRomance-Project/medieval-italian'
+repository-code: 'https://github.com/HTRomance-Project/modern-roman-languages'
 keywords:
   - HTR
   - French
