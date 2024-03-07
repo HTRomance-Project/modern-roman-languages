@@ -83,20 +83,17 @@ single manuscript, identified by its shelfmark.
 
 ### Regions
 
-- MainZone (228)
-- NumberingZone (131)
+- MainZone (229)
+- NumberingZone (130)
 - StampZone (43)
 - MarginTextZone (21)
-- Main (1)
-- Not specified (1)
 - TitlePageZone (9)
 - GraphicZone (9)
 
 ### Lines
 
-- DefaultLine (3284)
+- DefaultLine (3291)
 - HeadingLine (69)
-- Not specified (7)
 - InterlinearLine (26)
 
 <!-- EndMetric -->
