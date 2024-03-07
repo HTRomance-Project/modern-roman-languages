@@ -16,9 +16,10 @@ The number of lines per page depends on the documents. It varies from 4 to 42 fo
 
 ## Credits
 
-* Segmentation: Jade Norindr & Alix Chagué.
-* Transcriptions: Jade Norindr.
-* Supervision and manuscript selection: Alix Chagué <!-- remember to add Jade Norindr when her selection is added -->
+* Segmentation: Jade Norindr & Anna Mikhalchuk & Alix Chagué.
+* Transcription: Jade Norindr & Anna Mikhalchuk.
+* Manuscript selection: Alix Chagué & Jade Norindr.
+* Supervision and quality control: Alix Chagué 
 * Project management: Thibault Clérice & Alix Chagué.
 
 <!-- Rien ne doit être modifié manuellement après la balise Start Auto -->
