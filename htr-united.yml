@@ -1,11 +1,13 @@
-
-
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: Corpus Modern Roman Languages
 url: https://github.com/HTRomance-Project/modern-roman-languages
 authors:
   - name: Jade
     surname: Norindr
+    roles:
+      - transcriber
+  - name: Anna
+    surname: Mikhalchuk
     roles:
       - transcriber
   - name: Alix
@@ -38,8 +40,10 @@ license:
     url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
+  - metric: files
+    count: 168
   - metric: lines
-    count: 456
+    count: 3386
 transcription-guidelines: >-
   The transcription guidelines are described in a paper available on HAL and
   published at the Journal for Open Humanities Data. It provides specific
