@@ -17,6 +17,11 @@ authors:
       - project-manager
       - quality-control
       - support
+  - name: Thibault
+    surname: Clérice
+    orcid: 0000-0003-1852-9204
+    roles:
+      - project-manager
 institutions: []
 description: >-
   Dataset for modern roman languages created within the context of the HTRomance
