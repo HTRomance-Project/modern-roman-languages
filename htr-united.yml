@@ -1,5 +1,3 @@
-
-
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: Corpus Modern Roman Languages
 url: https://github.com/HTRomance-Project/modern-roman-languages
@@ -46,4 +44,3 @@ transcription-guidelines: >-
   details about the selection process, the transcription methods and choices, as
   well as details about output (mainly the Generic CREMMA Model for Medieval
   Manuscripts (Latin and Old French) for Kraken)
-
