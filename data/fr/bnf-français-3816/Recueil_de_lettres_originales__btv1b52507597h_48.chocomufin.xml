@@ -1,0 +1,43 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Recueil_de_lettres_originales__btv1b52507597h_48.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT8306" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8305" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT8304" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT8303" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT8302" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT8301" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT8300" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT8299" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT8298" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT8297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT8296" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT8295" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT8294" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT8293" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT8292" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="LT2837" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2836" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2835" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2834" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2833" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2001" HEIGHT="2899" PHYSICAL_IMG_NR="8" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2001" HEIGHT="2899">
+        
+        <TextBlock HPOS="362" VPOS="650" WIDTH="1445" HEIGHT="322" ID="eSc_textblock_819bb80d" TAGREFS="BT8296">
+          <Shape><Polygon POINTS="362 716 405 932 1450 972 1585 910 1807 877 1805 739 1689 663 584 663 459 650"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9919894d" TAGREFS="LT2833" BASELINE="386 771 1092 745 1730 742" HPOS="385" VPOS="673" WIDTH="1345" HEIGHT="133">
+            <Shape><Polygon POINTS="386 771 386 805 402 806 404 806 406 806 407 806 409 805 444 782 523 789 525 789 639 766 660 777 662 777 663 777 691 774 723 792 747 805 749 805 750 806 816 806 816 805 948 802 950 802 952 802 977 781 994 768 1105 756 1240 768 1242 768 1243 768 1245 768 1267 752 1282 763 1284 763 1285 763 1287 763 1342 761 1348 765 1356 771 1358 771 1359 771 1361 771 1363 771 1387 763 1404 758 1469 760 1628 766 1630 766 1632 766 1656 753 1678 761 1680 761 1682 761 1683 761 1730 748 1730 742 1725 690 1654 697 1643 692 1603 673 1601 673 1564 673 1562 673 1561 673 1508 695 1501 698 1496 695 1459 676 1458 676 1414 676 1412 676 1411 676 1409 676 1375 700 1369 703 1363 700 1322 679 1321 679 1250 679 1248 679 1247 679 1195 705 1190 707 1163 705 1082 700 1081 700 1079 700 1063 708 1058 710 1048 708 1021 703 1019 703 974 710 965 711 961 711 910 687 908 687 907 687 905 687 855 711 839 700 837 700 836 700 834 700 832 700 802 710 778 695 776 695 774 695 773 695 731 698 729 698 700 715 665 694 663 694 662 694 602 694 600 694 599 694 565 708 528 703 526 703 525 703 493 719 385 726 386 771"/></Shape>
+	    <String CONTENT="Lestre de Monseigneur le duc d'orleans" HPOS="385" VPOS="673" WIDTH="1345" HEIGHT="133"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de4debc8" TAGREFS="LT2833" BASELINE="383 898 675 880 1791 860" HPOS="381" VPOS="795" WIDTH="1410" HEIGHT="129">
+            <Shape><Polygon POINTS="383 898 383 911 423 924 425 924 426 924 486 909 509 905 525 909 549 916 551 916 552 916 554 916 555 916 567 908 573 905 605 908 671 914 673 914 715 906 736 901 755 905 786 911 787 911 863 903 881 901 886 903 944 921 945 921 947 921 1095 898 1164 889 1193 897 1214 903 1216 903 1218 903 1219 903 1243 897 1258 892 1271 895 1354 922 1356 922 1358 922 1538 918 1540 918 1625 889 1661 877 1723 887 1765 893 1767 893 1769 893 1791 885 1791 860 1786 821 1680 827 1667 822 1585 795 1583 795 1582 795 1580 795 1516 827 1512 829 1430 832 1424 829 1358 800 1356 800 1354 800 1267 810 1266 810 1208 834 1132 805 1131 805 1129 805 1087 806 1085 806 1084 806 1034 839 936 835 934 835 932 835 903 843 897 845 890 843 865 835 863 835 861 835 813 845 807 847 805 847 773 826 771 826 770 826 768 826 766 826 728 847 671 835 646 816 644 816 642 816 641 816 530 818 497 819 496 819 430 856 381 856 383 898"/></Shape>
+	    <String CONTENT="a la Roine Marie de Medicis sa mere" HPOS="381" VPOS="795" WIDTH="1410" HEIGHT="129"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
